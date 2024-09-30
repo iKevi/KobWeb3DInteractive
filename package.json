@@ -1,5 +1,6 @@
 {
   "dependencies": {
     "three": "^0.168.0"
+     "openrndr": "^1.0.0" 
   }
 }
